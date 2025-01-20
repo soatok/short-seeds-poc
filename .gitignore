@@ -3,3 +3,6 @@
 /composer.lock
 /composer.phar
 /exploit/demo4/*.json
+/exploit/demo5/*.json
+/exploit/demo5/samples/*.json
+/exploit/demo5/samples/*.txt
