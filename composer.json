@@ -1,0 +1,17 @@
+{
+  "name": "soatok/ed25519-short-seed-poc",
+  "autoload": {
+    "files": [
+      "exploit/common/AbstractCollision.php",
+      "exploit/common/Collision16Bit.php",
+      "exploit/common/Collision32Bit.php",
+      "exploit/common/Result.php"
+    ]
+  },
+  "require": {
+    "php": "^8.1",
+    "paragonie/sodium_compat": "^2",
+    "ext-json": "*",
+    "ext-sodium": "*"
+  }
+}
