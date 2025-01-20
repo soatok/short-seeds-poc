@@ -1,5 +1,5 @@
 {
-  "name": "soatok/ed25519-short-seed-poc",
+  "name": "soatok/short-seed-poc",
   "autoload": {
     "files": [
       "exploit/common/AbstractCollision.php",
